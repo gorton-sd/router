@@ -2,7 +2,7 @@
 
 /**
  * @author      GSD <dev@gorton.com.au>
- * @copyright   Copyright (c), 2013 Bram(us) Van Damme
+ * @copyright   Copyright (c), 2024 GSD
  * @license     MIT public license
  */
 
