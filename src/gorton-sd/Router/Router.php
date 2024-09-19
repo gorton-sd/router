@@ -1,4 +1,4 @@
-<?php
+?php
 
 /**
  * @author      GSD <dev@gorton.com.au>
@@ -9,5 +9,6 @@
 namespace gorton-sd\Router;
 
 class Router
-  {
-  }
+   {
+
+   }
