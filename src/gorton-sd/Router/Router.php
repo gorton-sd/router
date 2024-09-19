@@ -11,4 +11,8 @@ namespace gorton-sd\Router;
 class Router
    {
 
+    private $routes;
+
+    
+    
    }
